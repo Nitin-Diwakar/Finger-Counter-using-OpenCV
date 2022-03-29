@@ -25,19 +25,19 @@ pip install mediapipe
 ```
 
 # Imported Module
-OpenCv
+OpenCv(for image processing and performing computer vision tasks)
 ```python
 import cv2
 ```
-time
+time(for fps show)
 ```python
 import time
 ```
-os
+os(for loading directories)
 ```python
 import os
 ```
-mediapipe
+mediapipe(for hand detection)
 ```python
 import mediapipe as mp
 ```
